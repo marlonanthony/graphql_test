@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "3",
+      "name": "Elon Musk",
+      "email": "elontusk@gmail.com",
+      "age": "11"
+    },
+    {
+      "id": "4",
+      "name": "Bill Gates",
+      "email": "bgates@gmail.com",
+      "age": 55
+    },
+    {
+      "id": "5",
+      "name": "Steve Jobs",
+      "email": "sjobs@gmail.com",
+      "age": 62
+    },
+    {
+      "name": "Harry Potter",
+      "email": "hpotter@gmail.com",
+      "age": "22",
+      "id": "vbfsW0x"
+    },
+    {
+      "name": "Marlon Decosta",
+      "email": "marlon@gmail.com",
+      "age": "35",
+      "id": "xkrvRMt"
+    }
+  ]
+}
